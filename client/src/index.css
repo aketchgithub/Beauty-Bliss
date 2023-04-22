@@ -1,0 +1,7 @@
+/* do not remove this  */
+/* tailwind directive for each tailwind's layer */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
